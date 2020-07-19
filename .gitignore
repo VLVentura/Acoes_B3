@@ -1,1 +1,8 @@
 *.pyc
+*.txt
+*.TXT
+*.csv
+data_analisys.ipynb
+
+env/
+__pycache__/
